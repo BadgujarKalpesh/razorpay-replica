@@ -11,7 +11,7 @@ This is a static page clone of the Razorpay payment gateway website. It aims to 
 - HTML
 - Tailwind CSS
 
-![Screenshot (211)](https://github.com/BadgujarKalpesh/razorpay-replica/assets/89139455/0f43cb47-29dd-42d4-adbf-00e132f9c5a0)
+![Screenshot (220)](https://github.com/BadgujarKalpesh/razorpay-replica/assets/89139455/177ccbaa-189f-42d3-a12d-cac7423dd4c9)
 ![Screenshot (212)](https://github.com/BadgujarKalpesh/razorpay-replica/assets/89139455/cb9d7c0d-1bc0-4a95-9e43-64ad674aaf13)
 ![Screenshot (213)](https://github.com/BadgujarKalpesh/razorpay-replica/assets/89139455/df8e9811-814e-4f8c-8a6d-2f4199fffd18)
 ![Screenshot (215)](https://github.com/BadgujarKalpesh/razorpay-replica/assets/89139455/875d3d25-a8f0-4d33-88dd-9c46bfdef56f)
